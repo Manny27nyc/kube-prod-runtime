@@ -9,9 +9,9 @@ require (
 	github.com/onsi/gomega v1.7.1
 	github.com/pusher/oauth2_proxy v3.2.0+incompatible
 	gopkg.in/fsnotify/fsnotify.v1 v1.4.7 // indirect
-	k8s.io/api v0.17.4
-	k8s.io/apimachinery v0.17.4
-	k8s.io/client-go v0.17.4
+	k8s.io/api v0.17.16
+	k8s.io/apimachinery v0.17.16
+	k8s.io/client-go v0.17.16
 )
 
 replace (
